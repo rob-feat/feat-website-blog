@@ -18,10 +18,10 @@ export default {
                   apiId: '7f2dc11b-5a2e-4ac0-a3af-fbca013efe0f'
                 },
                 {
-                  buildHookId: '5e14060274ead825390ea1bc',
-                  title: 'Blog Website',
-                  name: 'sanity-gatsby-blog-web-z148ohcq',
-                  apiId: 'c8cb6355-ac48-40bd-ba57-8afc54c376dc'
+                  buildHookId: '5e14310b02ed4371aa57980f',
+                  title: 'FEAT Fitness Blog Website',
+                  name: 'featfitness',
+                  apiId: '1c2ad6fb-8d63-4cc5-86cd-ae776557a294'
                 }
               ]
             }
@@ -33,7 +33,7 @@ export default {
             value: 'https://github.com/rob-feat/sanity-gatsby-blog',
             category: 'Code'
           },
-          { title: 'Frontend', value: 'https://sanity-gatsby-blog-web-z148ohcq.netlify.com', category: 'apps' }
+          { title: 'Frontend', value: 'https://featfitness.com.au', category: 'apps' }
         ]
       }
     },
