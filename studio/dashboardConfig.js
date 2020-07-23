@@ -13,8 +13,8 @@ export default {
               sites: [
                 {
                   buildHookId: '5e14060245f0cc1181cfc07f',
-                  title: 'Sanity Studio',
-                  name: 'sanity-gatsby-blog-studio-vv57ppce',
+                  title: 'FEAT Blog Admin (Sanity Studio)',
+                  name: 'feat-blog-admin',
                   apiId: '7f2dc11b-5a2e-4ac0-a3af-fbca013efe0f'
                 },
                 {
