@@ -30,7 +30,7 @@ export default {
         data: [
           {
             title: 'GitHub repo',
-            value: 'https://github.com/rob-feat/sanity-gatsby-blog',
+            value: 'https://github.com/rob-feat/feat-website-blog',
             category: 'Code'
           },
           { title: 'Frontend', value: 'https://featfitness.com.au', category: 'apps' }

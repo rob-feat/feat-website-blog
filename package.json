@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "sanity-gatsby-blog",
+  "name": "feat-website-blog",
   "version": "1.0.6",
   "scripts": {
     "build": "lerna run build --parallel",
@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@sanity/cli": "^0.147.3",
+    "@sanity/cli": "^1.149.18",
     "lerna": "^3.13.1"
   }
 }
